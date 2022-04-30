@@ -1,0 +1,88 @@
+[debug] [2022-04-30T13:33:53.846Z] ----------------------------------------------------------------------
+[debug] [2022-04-30T13:33:53.849Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Galaxy\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-04-30T13:33:53.850Z] CLI Version:   10.7.2
+[debug] [2022-04-30T13:33:53.850Z] Platform:      win32
+[debug] [2022-04-30T13:33:53.850Z] Node Version:  v16.13.2
+[debug] [2022-04-30T13:33:53.852Z] Time:          Sat Apr 30 2022 18:33:53 GMT+0500 (Pakistan Standard Time)
+[debug] [2022-04-30T13:33:53.852Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-30T13:33:53.971Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-30T13:33:53.971Z] > authorizing via signed-in user (mannananxari@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  G:\Web Develpment\Chat With Node
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-04-30T13:34:10.316Z] Using project from CLI flag: ichat-3da4d
+[debug] [2022-04-30T13:34:10.320Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/ichat-3da4d [none]
+[debug] [2022-04-30T13:34:10.820Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/ichat-3da4d 200
+[debug] [2022-04-30T13:34:10.821Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/ichat-3da4d {"projectId":"ichat-3da4d","projectNumber":"656713127707","displayName":"iChat","name":"projects/ichat-3da4d","resources":{"hostingSite":"ichat-3da4d"},"state":"ACTIVE"}
+[info] i  Using project ichat-3da4d (iChat) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2022-04-30T13:35:05.200Z] ----------------------------------------------------------------------
+[debug] [2022-04-30T13:35:05.203Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Galaxy\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-04-30T13:35:05.204Z] CLI Version:   10.7.2
+[debug] [2022-04-30T13:35:05.204Z] Platform:      win32
+[debug] [2022-04-30T13:35:05.204Z] Node Version:  v16.13.2
+[debug] [2022-04-30T13:35:05.206Z] Time:          Sat Apr 30 2022 18:35:05 GMT+0500 (Pakistan Standard Time)
+[debug] [2022-04-30T13:35:05.206Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-30T13:35:05.323Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-30T13:35:05.323Z] > authorizing via signed-in user (mannananxari@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  G:\Web Develpment\Chat With Node
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-04-30T13:35:12.972Z] Using project from CLI flag: ichat-3da4d
+[debug] [2022-04-30T13:35:12.976Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/ichat-3da4d [none]
+[debug] [2022-04-30T13:35:13.502Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/ichat-3da4d 200
+[debug] [2022-04-30T13:35:13.502Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/ichat-3da4d {"projectId":"ichat-3da4d","projectNumber":"656713127707","displayName":"iChat","name":"projects/ichat-3da4d","resources":{"hostingSite":"ichat-3da4d"},"state":"ACTIVE"}
+[info] i  Using project ichat-3da4d (iChat) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
